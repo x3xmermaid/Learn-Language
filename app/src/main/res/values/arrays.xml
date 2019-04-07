@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="jawaban">
+        <item>penguin</item>
+        <item>fish</item>
+        <item>flower</item>
+        <item>cow</item>
+        <item>bird</item>
+        <item>butterfly</item>
+        <item>bee</item>
+        <item>hammer</item>
+        <item>lion</item>
+        <item>frog</item>
+        <item>owl</item>
+        <item>saw</item>
+        <item>cat</item>
+        <item>hat</item>
+        <item>duck</item>
+        <item>snake</item>
+        <item>leaf</item>
+        <item>mountain</item>
+        <item>astronaut</item>
+        <item>apple</item>
+        <item>pork</item>
+        <item>watermelon</item>
+        <item>monkey</item>
+        <item>shark</item>
+        <item>deer</item>
+        <item>pineapple</item>
+        <item>shoes</item>
+        <item>office tool</item>
+        <item>stationary</item>
+        <item>cupboard</item>
+        <item>school bus</item>
+        <item>house</item>
+        <item>church</item>
+        <item>bag</item>
+        <item>bell</item>
+        <item>banana</item>
+        <item>strawberries</item>
+        <item>grapes</item>
+        <item>orange</item>
+        <item>tree</item>
+        <item>pinguino</item>
+        <item>pescado</item>
+        <item>interés</item>
+        <item>vaca</item>
+        <item>el pájaro</item>
+        <item>mariposa</item>
+        <item>abeja</item>
+        <item>martillo</item>
+        <item>león</item>
+        <item>rana</item>
+        <item>lechuza</item>
+        <item>vio</item>
+        <item>gato</item>
+        <item>sombrero</item>
+        <item>pato</item>
+        <item>serpiente</item>
+        <item>hojas</item>
+        <item>montaña</item>
+        <item>astronauta</item>
+        <item>manzana</item>
+        <item>cerdo</item>
+        <item>sandía</item>
+        <item>mono</item>
+        <item>tiburón</item>
+        <item>venado</item>
+        <item>piña</item>
+        <item>Zapatos</item>
+        <item>equipo de oficina</item>
+        <item>papeleria</item>
+        <item>armario</item>
+        <item>autobús escolar</item>
+        <item>la casa</item>
+        <item>la Iglesia</item>
+        <item>bolso de escuela</item>
+        <item>campanas</item>
+        <item>plátano</item>
+        <item>fresas</item>
+        <item>uvas</item>
+        <item>naranja</item>
+        <item>árbol</item>
+    </array>
+
+    <array name="jSpanyol">
+
+
+    </array>
+
+    <array name="Gambar">
+        <item name="1">@mipmap/c1</item>
+        <item name="1">@mipmap/c2</item>
+        <item name="1">@mipmap/c3</item>
+        <item name="1">@mipmap/c4</item>
+        <item name="1">@mipmap/c5</item>
+        <item name="1">@mipmap/c6</item>
+        <item name="1">@mipmap/c7</item>
+        <item name="1">@mipmap/c8</item>
+        <item name="1">@mipmap/c9</item>
+        <item name="1">@mipmap/c10</item>
+        <item name="1">@mipmap/c11</item>
+        <item name="1">@mipmap/c12</item>
+        <item name="1">@mipmap/c13</item>
+        <item name="1">@mipmap/c14</item>
+        <item name="1">@mipmap/c15</item>
+        <item name="1">@mipmap/c16</item>
+        <item name="1">@mipmap/c17</item>
+        <item name="1">@mipmap/c18</item>
+        <item name="1">@mipmap/c19</item>
+        <item name="1">@mipmap/c20</item>
+        <item name="1">@mipmap/c21</item>
+        <item name="1">@mipmap/c22</item>
+        <item name="1">@mipmap/c23</item>
+        <item name="1">@mipmap/c24</item>
+        <item name="1">@mipmap/c25</item>
+        <item name="1">@mipmap/c26</item>
+        <item name="1">@mipmap/c27</item>
+        <item name="1">@mipmap/c28</item>
+        <item name="1">@mipmap/c29</item>
+        <item name="1">@mipmap/c30</item>
+        <item name="1">@mipmap/c31</item>
+        <item name="1">@mipmap/c32</item>
+        <item name="1">@mipmap/c33</item>
+        <item name="1">@mipmap/c34</item>
+        <item name="1">@mipmap/c35</item>
+        <item name="1">@mipmap/c36</item>
+        <item name="1">@mipmap/c37</item>
+        <item name="1">@mipmap/c38</item>
+        <item name="1">@mipmap/c39</item>
+        <item name="1">@mipmap/c40</item>
+    </array>
+
+    <array name="suara">
+        <item name="1">@raw/e1</item>
+        <item name="1">@raw/e2</item>
+        <item name="1">@raw/e3</item>
+        <item name="1">@raw/e4</item>
+        <item name="1">@raw/e5</item>
+        <item name="1">@raw/e6</item>
+        <item name="1">@raw/e7</item>
+        <item name="1">@raw/e8</item>
+        <item name="1">@raw/e9</item>
+        <item name="1">@raw/e10</item>
+        <item name="1">@raw/e11</item>
+        <item name="1">@raw/e12</item>
+        <item name="1">@raw/e13</item>
+        <item name="1">@raw/e14</item>
+        <item name="1">@raw/e15</item>
+        <item name="1">@raw/e16</item>
+        <item name="1">@raw/e17</item>
+        <item name="1">@raw/e18</item>
+        <item name="1">@raw/e19</item>
+        <item name="1">@raw/e20</item>
+        <item name="1">@raw/e21</item>
+        <item name="1">@raw/e22</item>
+        <item name="1">@raw/e23</item>
+        <item name="1">@raw/e24</item>
+        <item name="1">@raw/e25</item>
+        <item name="1">@raw/e26</item>
+        <item name="1">@raw/e27</item>
+        <item name="1">@raw/e28</item>
+        <item name="1">@raw/e29</item>
+        <item name="1">@raw/e30</item>
+        <item name="1">@raw/e31</item>
+        <item name="1">@raw/e32</item>
+        <item name="1">@raw/e33</item>
+        <item name="1">@raw/e34</item>
+        <item name="1">@raw/e35</item>
+        <item name="1">@raw/e36</item>
+        <item name="1">@raw/e37</item>
+        <item name="1">@raw/e38</item>
+        <item name="1">@raw/e39</item>
+        <item name="1">@raw/e40</item>
+        <item name="1">@raw/s1</item>
+        <item name="1">@raw/s2</item>
+        <item name="1">@raw/s3</item>
+        <item name="1">@raw/s4</item>
+        <item name="1">@raw/s5</item>
+        <item name="1">@raw/s6</item>
+        <item name="1">@raw/s7</item>
+        <item name="1">@raw/s8</item>
+        <item name="1">@raw/s9</item>
+        <item name="1">@raw/s10</item>
+        <item name="1">@raw/s11</item>
+        <item name="1">@raw/s12</item>
+        <item name="1">@raw/s13</item>
+        <item name="1">@raw/s14</item>
+        <item name="1">@raw/s15</item>
+        <item name="1">@raw/s16</item>
+        <item name="1">@raw/s17</item>
+        <item name="1">@raw/s18</item>
+        <item name="1">@raw/s19</item>
+        <item name="1">@raw/s20</item>
+        <item name="1">@raw/s21</item>
+        <item name="1">@raw/s22</item>
+        <item name="1">@raw/s23</item>
+        <item name="1">@raw/s24</item>
+        <item name="1">@raw/s25</item>
+        <item name="1">@raw/s26</item>
+        <item name="1">@raw/s27</item>
+        <item name="1">@raw/s28</item>
+        <item name="1">@raw/s29</item>
+        <item name="1">@raw/s30</item>
+        <item name="1">@raw/s31</item>
+        <item name="1">@raw/s32</item>
+        <item name="1">@raw/s33</item>
+        <item name="1">@raw/s34</item>
+        <item name="1">@raw/s35</item>
+        <item name="1">@raw/s36</item>
+        <item name="1">@raw/s37</item>
+        <item name="1">@raw/s38</item>
+        <item name="1">@raw/s39</item>
+        <item name="1">@raw/s40</item>
+    </array>
+
+    <array name="suaraSpanyol">
+
+    </array>
+
+ 
+
+
+</resources>
