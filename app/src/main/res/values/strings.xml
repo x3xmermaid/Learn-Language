@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ANDRO_PROJECT2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_button">Jawab</string>
+
+    <string name="inggris1">Pilih yang memiliki arti "pinguin" dalam bahasa inggris ?</string>
+    <string name="inggris2">Pilih yang memiliki arti "kupu-kupu" dalam bahasa inggris ?</string>
+    <string name="inggris3">Pilih yang memiliki arti "burung hantu" dalam bahasa inggris ?</string>
+    <string name="inggris4">Pilih yang memiliki arti "ular" dalam bahasa inggris ?</string>
+    <string name="inggris5">Pilih yang memiliki arti "daun" dalam bahasa inggris ?</string>
+    <string name="inggris6">Pilih yang memiliki arti "babi" dalam bahasa inggris ?</string>
+    <string name="inggris7">Pilih yang memiliki arti "nanas" dalam bahasa inggris ?</string>
+    <string name="inggris8">Pilih yang memiliki arti "bus sekolah" dalam bahasa inggris ?</string>
+    <string name="inggris9">Pilih yang memiliki arti "pisang" dalam bahasa inggris ?</string>
+    <string name="inggris10">Pilih yang memiliki arti "stroberi" dalam bahasa inggris ?</string>
+    <string name="spain1">Pilih yang memiliki arti "semangka" dalam bahasa spanyol ?</string>
+    <string name="spain2">Pilih yang memiliki arti "sepatu" dalam bahasa spanyol ?</string>
+    <string name="spain3">Pilih yang memiliki arti "rumah" dalam bahasa spanyol ?</string>
+    <string name="spain4">Pilih yang memiliki arti "gereja" dalam bahasa spanyol ?</string>
+    <string name="spain5">Pilih yang memiliki arti "anggur" dalam bahasa spanyol ?</string>
+    <string name="spain6">Pilih yang memiliki arti "bunga" dalam bahasa spanyol ?</string>
+    <string name="spain7">Pilih yang memiliki arti "palu" dalam bahasa spanyol ?</string>
+    <string name="spain8">Pilih yang memiliki arti "singa" dalam bahasa spanyol ?</string>
+    <string name="spain9">Pilih yang memiliki arti "topi" dalam bahasa spanyol ?</string>
+    <string name="spain10">Pilih yang memiliki arti "astronot" dalam bahasa spanyol ?</string>
+
+    <array name="negara">
+        <item>indonesia</item>
+        <item>inggris</item>
+        <item>jepang</item>
+        <item>spanyol</item>
+        <item>russia</item>
+    </array>
+</resources>
