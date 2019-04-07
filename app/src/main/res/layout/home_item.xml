@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_layout"
+    android:padding="20dp">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="indonesia"
+        android:id="@+id/userItemAsal"
+        android:layout_marginStart="10dp"
+        android:layout_toRightOf="@id/userItemImage"
+        android:layout_toEndOf="@+id/userItemImage"
+        android:layout_marginEnd="30dp"
+        android:padding="10dp"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/userItemAsal"
+        android:layout_toEndOf="@+id/userItemAsal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginEnd="30dp"
+        android:padding="10dp"
+        android:text=" - "
+        android:id="@+id/pemisah"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="inggris"
+        android:id="@+id/userItemke"
+        android:layout_marginLeft="10dp"
+        android:padding="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_toRightOf="@id/pemisah"
+        android:layout_toEndOf="@+id/pemisah"
+        android:textSize="18sp"/>
+
+
+</RelativeLayout>
