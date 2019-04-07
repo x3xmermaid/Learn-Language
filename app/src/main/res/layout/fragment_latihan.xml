@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragments.LatihanFragment">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_margin="10dp"
+        android:id="@+id/a"
+        android:text="Latihan 1"
+        android:textColor="@color/white"
+        android:background="@color/sky"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_margin="10dp"
+        android:id="@+id/b"
+        android:text="Latihan 2"
+        android:textColor="@color/white"
+        android:layout_below="@id/a"
+        android:background="@color/sky"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_margin="10dp"
+        android:id="@+id/c"
+        android:text="Latihan 3"
+        android:layout_below="@+id/b"
+        android:textColor="@color/white"
+        android:background="@color/sky"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_margin="10dp"
+        android:id="@+id/d"
+        android:text="Latihan 4"
+        android:layout_below="@id/c"
+        android:textColor="@color/white"
+        android:background="@color/sky"/>
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/fragLRecy"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        />
+
+
+
+</RelativeLayout>
