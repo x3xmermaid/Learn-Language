@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="10dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/userItemImage"
+        android:src="@mipmap/ic_launcher"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="username"
+        android:id="@+id/userItemUser"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/userItemImage"
+        android:layout_toEndOf="@+id/userItemImage"
+
+        android:textSize="18sp"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_on"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_alignBottom="@+id/userItemImage"
+        android:layout_alignEnd="@+id/userItemImage"
+        android:src="@mipmap/ic_launcher"
+        android:visibility="gone"
+        app:civ_border_color="@color/yellow"
+        app:civ_border_width="10dp" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_off"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_alignBottom="@+id/userItemImage"
+        android:layout_alignEnd="@+id/userItemImage"
+        android:src="@mipmap/ic_launcher"
+
+        app:civ_border_color="@color/softGray"
+        app:civ_border_width="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/last_msg"
+        android:layout_below="@+id/userItemUser"
+        android:layout_marginTop="5dp"
+        android:paddingTop="5dp"
+        android:layout_toRightOf="@+id/userItemImage"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/colorPrimary"
+        android:maxLines="1"/>
+</RelativeLayout>
